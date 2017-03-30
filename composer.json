@@ -1,0 +1,12 @@
+{
+    "name": "上网日志",
+    "description": "上网日志",
+    "type": "project",
+    "keywords": [
+        "Es 查询分页"
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yii2": ">=2.0"
+    },
+ }
