@@ -1,5 +1,5 @@
 {
-    "name": "audit",
+    "name": "audit/audit",
     "description": "上网日志",
     "type": "project",
     "keywords": [
